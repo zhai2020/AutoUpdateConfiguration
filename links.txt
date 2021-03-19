@@ -1,0 +1,4 @@
+https://github.com/matplotlib/cheatsheets/raw/master/handout-tips.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/handout-intermediate.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/handout-beginner.pdf,1
+https://github.com/matplotlib/cheatsheets/raw/master/cheatsheets.pdf,1
